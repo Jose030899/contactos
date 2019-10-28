@@ -1,9 +1,10 @@
 {
-    "Contactos":[
-      {"id": 1,
-      "Nombre": "Jose",
-      "Apellidos": "Orozco",
-      "Telefono": "4776814369"
+    "Contactos": [
+        {
+          "id": 1,
+          "Nombre": "Jose",
+          "Apellidos": "Orozco",
+          "Telefono": "4776814369"
       }
-     ]
+    ]
 }
