@@ -1,32 +1,6 @@
 {
-    {
       "id": 1,
       "Nombre": "Jose",
       "Apellidos": "Orozco",
-      "Telefono": "4776814369",
-    },
-    {
-      "id": 2,
-      "Nombre": "Alex",
-      "Apellidos": "Jacinto",
-      "Telefono": "477789654"
-    },
-    {
-      "id": 3,
-      "Nombre": "Geronimo",
-      "Apellidos": "Galvan",
-      "Telefono": "4326814369"
-    },
-    {
-      "id": 4,
-      "Nombre": "Carlos",
-      "Apellidos": "Orozco",
-      "Telefono": "4776789120"
-    },
-    {
-      "id": 5,
-      "Nombre": "Juan",
-      "Apellidos": "Escutia",
       "Telefono": "4776814369"
-  }
 }
