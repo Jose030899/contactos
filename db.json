@@ -1,22 +1,31 @@
 {
-  "Contactos": [
+  "posts": [
     {
-      "Idcontaco": 1,
-      "Nombres": "Jose Maria",
-      "Apellidos": "Orozco Ramirez",
-      "Telefono": "4776814369"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "Idcontaco": 2,
-      "Nombres": "Alex",
-      "Apellidos": "Jacinto Sevillano",
-      "Telefono": "476123456"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "Idcontaco": 2,
-      "Nombres": "Geronimo",
-      "Apellidos": "Galvan Valades",
-      "Telefono": "476789456"
+      "id": 3,
+      "title": "Post 3"
     }
   ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
