@@ -3,35 +3,35 @@
         {
           "IdUsuario": 1,
           "Nombre": "Jose1",
-          "Apellidos": "Orozco",
+          "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
           "IdUsuario": 2,
           "Nombre": "Jose2",
-          "Apellidos": "Orozco",
+          "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
           "IdUsuario": 3,
           "Nombre": "Jose3",
-          "Apellidos": "Orozco",
+          "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
           "IdUsuario": 4,
           "Nombre": "Jose4",
-          "Apellidos": "Orozco",
+          "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
           "IdUsuario": 5,
           "Nombre": "Jose5",
-          "Apellidos": "Orozco",
+          "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       }
