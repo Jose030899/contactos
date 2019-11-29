@@ -1,35 +1,35 @@
 {
     "Contactos": [
         {
-          "IdUsuario": 1,
+          "IdContacto": 1,
           "Nombre": "Jose1",
           "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
-          "IdUsuario": 2,
+          "IdContacto: 2,
           "Nombre": "Jose2",
           "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
-          "IdUsuario": 3,
+          "IdContacto": 3,
           "Nombre": "Jose3",
           "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
-          "IdUsuario": 4,
+          "IdContacto": 4,
           "Nombre": "Jose4",
           "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
           "Telefono": "4776814369"
       },
       {
-          "IdUsuario": 5,
+          "IdContacto": 5,
           "Nombre": "Jose5",
           "Apellido": "Orozco",
           "Correo": "pepe365@live.com.mx",
